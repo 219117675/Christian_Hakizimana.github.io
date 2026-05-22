@@ -1,3 +1,6 @@
+<img src="profile.png" width="120" 
+  style="border-radius:50%; border:3px solid #333;">
+
 # Christian Hakizimana
 ### Software Developer | ICT Student @ CPUT
 
