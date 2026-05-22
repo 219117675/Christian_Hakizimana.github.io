@@ -140,7 +140,7 @@ My task was to configure my GitHub repository to deploy via GitHub Pages, ensure
 I navigated to my repository settings and enabled GitHub Pages from the main branch. I resolved file linking issues by ensuring all file paths were relative and correctly named. I tested the deployed site across multiple devices to confirm it loaded properly and that all download and video links functioned correctly.
 
 **🔹 _Result:_**
-My portfolio was successfully deployed at [219117675.github.io/Chtistian_Hakizimana.github.io](https://219117675.github.io/Christian_Hakizimana.github.io/). This experience gave me hands-on knowledge of static site deployment, reinforced best practices for file management in a repository, and demonstrated how GitHub can be used as a professional self-branding tool beyond just code storage.
+My portfolio was successfully deployed at [219117675.github.io/Christian_Hakizimana.github.io](https://219117675.github.io/Christian_Hakizimana.github.io/). This experience gave me hands-on knowledge of static site deployment, reinforced best practices for file management in a repository, and demonstrated how GitHub can be used as a professional self-branding tool beyond just code storage.
 
 ---
 
