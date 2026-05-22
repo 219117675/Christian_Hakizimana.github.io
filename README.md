@@ -1,8 +1,20 @@
+<div style="display:flex; align-items:center; gap:20px; 
+background:#f5f5f5; padding:20px; border-radius:15px;">
 
+  <img src="profile.png" width="120" 
+  style="border-radius:50%; border:3px solid #333;">
 
-<img src="profile.png" width="120" style="border-radius:50%;">
+  <div>
+    <h1 style="margin:0;">Christian Hakizimana</h1>
+    <p style="margin:5px 0;"><strong>Software Developer | ICT Student</strong></p>
+    <p style="margin:5px 0;">📍 Cape Town, South Africa</p>
+    <p style="margin:5px 0;">📧 219117675@mycput.ac.za</p>
+    <p style="margin:5px 0;">
+      🔗 <a href="https://github.com/219117675">GitHub</a>
+    </p>
+  </div>
 
-# **Christian Hakizimana**
+</div>
 
 # Christian Hakizimana
 ### Software Developer | ICT Student @ CPUT
@@ -83,7 +95,6 @@
 
 ▶️ [Watch Mock Interview](interview.mp4)
 
-*Recorded as part of the PRP370S Work Readiness assessment, June 2026.*
 
 
 ---
@@ -92,50 +103,54 @@
 
 ### 📄 Reflection on Coding in Markdown *(STAR Method)*
 
-**⭐ Situation**
+**🔹 _Situation:_**
 As part of the PRP370S Project Presentation 3 module, I was required to build a digital portfolio using GitHub. Prior to this, I had no experience with Markdown and was only familiar with HTML and CSS for web-based formatting.
 
-**⭐ Task**
+**🔹 _Task:_**
 My task was to code my entire CV and portfolio content using GitHub Flavoured Markdown (GFM), structure it clearly in a README file, and ensure it was readable, well-organised, and professionally presented on GitHub Pages.
 
-**⭐ Action**
+**🔹 _Action:_**
 I began by researching Markdown syntax through the GitHub documentation and practised writing headings, bullet points, bold text, tables, and links. I applied my existing HTML knowledge to understand the structural similarities, and where Markdown had limitations, I integrated inline HTML to improve the layout. I iteratively refined the file by previewing it on GitHub and making adjustments based on how it rendered.
 
-**⭐ Result**
+**🔹 _Result:_**
 I successfully produced a fully Markdown-coded portfolio that renders cleanly on GitHub Pages. This experience improved my understanding of lightweight markup languages, sharpened my ability to structure information clearly, and reinforced the importance of adaptability when learning new tools in a developer environment.
 
 ---
 
 ### 🎥 Reflection on Mock Interview Video *(STAR Method)*
 
-**⭐ Situation**
+**🔹 _Situation:_**
 As part of the work readiness component of PRP370S, I was required to record a mock job interview. This was the first time I had recorded myself in a formal interview setting, and I found it both challenging and unfamiliar.
 
-**⭐ Task**
+**🔹 _Task:_**
 My task was to simulate a real job interview on camera, answering questions relevant to a software developer role while demonstrating professionalism, clear communication, and the ability to articulate my skills and experiences effectively.
 
-**⭐ Action**
+**🔹 _Action:_**
 I prepared by researching common interview questions for ICT graduate roles and practised my answers using the STAR method. I set up a quiet, professional-looking environment for recording, reviewed my CV to ensure my answers aligned with my documented experience, and rehearsed multiple times before recording the final version.
 
-**⭐ Result**
+**🔹 _Result:_**
 The final recording demonstrated a composed and structured interview performance. I became more aware of how I present myself verbally and non-verbally. This exercise significantly improved my interview confidence and gave me a practical framework I can apply in real job applications going forward.
 
 ---
 
 ### 🌐 Reflection on Publishing with GitHub Pages *(STAR Method)*
 
-**⭐ Situation**
+**🔹 _Situation:_**
 After completing my portfolio content, I needed to make it publicly accessible online as a requirement of the PRP370S assessment. While I had used GitHub for version control and code storage, I had never deployed a live website using GitHub Pages before.
 
-**⭐ Task**
+**🔹 _Task:_**
 My task was to configure my GitHub repository to deploy via GitHub Pages, ensure all assets (CV, images, video) were correctly linked, and produce a live, accessible URL that could be submitted on Blackboard as evidence of my completed portfolio.
 
-**⭐ Action**
+**🔹 _Action:_**
 I navigated to my repository settings and enabled GitHub Pages from the main branch. I resolved file linking issues by ensuring all file paths were relative and correctly named. I tested the deployed site across multiple devices to confirm it loaded properly and that all download and video links functioned correctly.
 
-**⭐ Result**
+**🔹 _Result:_**
 My portfolio was successfully deployed at [219117675.github.io/Chtistian_Hakizimana.github.io](https://219117675.github.io/Chtistian_Hakizimana.github.io/). This experience gave me hands-on knowledge of static site deployment, reinforced best practices for file management in a repository, and demonstrated how GitHub can be used as a professional self-branding tool beyond just code storage.
 
 ---
 
-*© 2026 Christian Hakizimana · CPUT Diploma in ICT · PRP370S Portfolio*
+
+<p align="center">
+  <em>© 2026 Christian Hakizimana · CPUT Diploma in ICT · PRP370S Portfolio</em>
+</p>
+
