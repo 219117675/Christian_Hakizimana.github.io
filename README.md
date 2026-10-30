@@ -1,3 +1,7 @@
+**Home & CV** | [Agile Team Charter](charter.md) | [User Stories and Tasks](user-stories.md) | [Product Backlog](product-backlog.md) | [Sprint Backlog](sprint-backlog.md) | [Agile Logbook](logbook.md) | [Full FundiShop Document](FundiShop_PRP370_Portfolio.md)
+
+---
+
 <div style="display:flex; align-items:center; gap:20px; 
 background:#f5f5f5; padding:20px; border-radius:15px;">
 
@@ -87,6 +91,21 @@ background:#f5f5f5; padding:20px; border-radius:15px;">
     <source src="interview.mp4" type="video/mp4">
   </video>
 </div>
+
+---
+
+## 📁 Agile Project Portfolio (FundiShop)
+
+> **Replace this note** with a short introduction (about 100 to 150 words) explaining how the five sections fit together into one story: charter, then stories, then backlogs, then logbook.
+
+| # | Section | What it shows |
+|---|---|---|
+| 1 | [Agile Team Charter](charter.md) | The shared purpose, values, working agreements and boundaries my team agreed on. |
+| 2 | [User Stories and Tasks](user-stories.md) | Features written from the end user's perspective, broken down into tasks. |
+| 3 | [Product Backlog](product-backlog.md) | The prioritised list of everything the product needs. |
+| 4 | [Sprint Backlog](sprint-backlog.md) | The work selected for the sprint and the sprint goal. |
+| 5 | [Agile Logbook](logbook.md) | Daily stand-ups, sprint planning and retrospective notes. |
+| + | [Full FundiShop Portfolio Document](FundiShop_PRP370_Portfolio.md) | The complete PRP370 Agile Portfolio of Evidence in one document. |
 
 ---
 
