@@ -2,7 +2,7 @@
 
 *The shared purpose, values, working agreements and boundaries my team agreed on.*
 
-[Home & CV](README.md) | **Agile Team Charter** | [User Stories and Tasks](user-stories.md) | [Product Backlog](product-backlog.md) | [Sprint Backlog](sprint-backlog.md) | [Agile Logbook](logbook.md) | [Full FundiShop Document](FundiShop_PRP370_Portfolio.md)
+[Home & CV](README.md) | [Agile Project Portfolio (FundiShop)](portfolio.md) | **Agile Team Charter** | [User Stories and Tasks](user-stories.md) | [Product Backlog](product-backlog.md) | [Sprint Backlog](sprint-backlog.md) | [Agile Logbook](logbook.md) | [Full FundiShop Document](FundiShop_PRP370_Portfolio.md)
 
 ## Evidence
 
