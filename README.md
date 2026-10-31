@@ -94,8 +94,6 @@ background:#f5f5f5; padding:20px; border-radius:15px;">
 
 ---
 
-| 5 | [Agile Logbook](logbook.md) | Daily stand-ups, sprint planning and retrospective notes. |
-| + | [Full FundiShop Portfolio Document](FundiShop_PRP370_Portfolio.md) | The complete PRP370 Agile Portfolio of Evidence in one document. |
 
 ---
 
