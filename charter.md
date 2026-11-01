@@ -10,7 +10,7 @@
 
 ![FundiShop Agile Team Charter showing the project title and team member details](charter.png)
 
-<a href="agile_Team_Charter.pdf" target="_blank">View PDF with all the details</a>
+> <a href="agile_Team_Charter.pdf" target="_blank">View PDF with all the details</a>
 
 *Caption: FundiShop Agile Team Charter, prepared in 2026. The document records the project purpose, team members, assigned roles, working agreements and sign-off section.*
 
