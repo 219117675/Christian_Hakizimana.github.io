@@ -20,7 +20,9 @@ This goal focuses on the core marketplace functionality before expanding the app
 
 Add a screenshot of your actual FundiShop Trello sprint board. The screenshot should show the sprint goal, selected cards, task assignments and progress columns where available.
 
-![FundiShop sprint backlog board showing selected sprint work and task progress](images/sprint-backlog.png)
+![FundiShop sprint backlog board showing selected sprint work and task progress](trello.png)
+
+<a href="https://trello.com/b/aviqvFPS/fundishorp">Click here to view Trello Board</a>
 
 *Figure 1: FundiShop sprint backlog showing the selected work items and sprint progress, 2026.*
 
