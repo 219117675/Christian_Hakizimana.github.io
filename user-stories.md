@@ -14,7 +14,9 @@ User stories help describe the functionality from the perspective of the people 
 
 The evidence for this section should show the user stories and their related tasks as recorded on the FundiShop Trello board. Add a screenshot of the relevant Trello cards below.
 
-![Screenshot of FundiShop user stories and their related tasks from Trello](images/user-stories.png)
+![Screenshot of FundiShop user stories and their related tasks from Trello](dailytask.png)
+
+<a href="document.pdf" target="_blank">View PDF with full Details</a>
 
 *Figure 1: FundiShop user stories and related tasks recorded on the Trello board, 2026.*
 
