@@ -2,7 +2,7 @@
 
 *The prioritised list of features, improvements and requirements needed to develop the FundiShop service marketplace.*
 
-[Home & CV](README.md) | [Agile Project Portfolio (FundiShop)](portfolio.md)| [Agile Team Charter](charter.md) | [User Stories and Tasks](user-stories.md) | **Product Backlog** | [Sprint Backlog](sprint-backlog.md) | [Agile Logbook](logbook.md) | [Full FundiShop Document](FundiShop_PRP370_Portfolio.md)
+[Home & CV](README.md) | [Agile Project Portfolio (FundiShop)](portfolio.md)| [Agile Team Charter](charter.md) | [User Stories and Tasks](user-stories.md) | **Product Backlog** | [Sprint Backlog](sprint-backlog.md) | [Agile Logbook](logbook.md) 
 
 ## Project Overview
 
