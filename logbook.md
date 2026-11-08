@@ -252,17 +252,6 @@ I have also learned that Agile development requires flexibility. Not every task 
 
 For future sprints, I would improve task estimation, clarify requirements before implementation and allocate more time for testing and integration. I would also make sure that progress and blockers are recorded consistently. These improvements can help the team work more efficiently, strengthen collaboration and deliver a more reliable FundiShop application.
 
-## Links to Other Portfolio Sections
-
-The Agile Logbook connects the activities documented in the other portfolio sections and shows how the team applied Agile practices throughout the FundiShop project.
-
-- **Agile Team Charter:** Establishes the team's purpose, responsibilities and working agreements.
-- **User Stories and Tasks:** Describes the requirements from the perspectives of homeowners and Fundis and breaks them into development tasks.
-- **Product Backlog:** Provides the prioritised list of features and improvements required for FundiShop.
-- **Sprint Backlog:** Identifies the selected sprint work, tasks, responsibilities and sprint goal.
-- **Agile Logbook:** Records planning activities, daily progress, challenges, sprint reviews and lessons learned.
-
-Together, these sections tell the story of how the team organised its responsibilities, identified user requirements, prioritised development work, planned sprint activities and reflected on its progress.
 
 ## Conclusion
 
