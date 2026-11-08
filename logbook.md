@@ -16,7 +16,8 @@ The logbook helps the team monitor progress, communicate problems, identify bloc
 
 Add screenshots or photographs of your actual daily stand-ups, Trello activity, sprint planning discussions and retrospective notes. Evidence should show dates and relevant project activities wherever possible.
 
-![FundiShop Agile logbook evidence showing team progress and daily activities](images/logbook.png)
+![FundiShop Agile logbook evidence showing team progress and daily activities](logbook.png)
+[View the Full Agile Logbook Document](logbook.pdf)
 
 *Figure 1: FundiShop Agile logbook evidence showing team activities, progress and discussions, 2026.*
 
