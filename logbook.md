@@ -23,11 +23,13 @@ Add screenshots or photographs of your actual daily stand-ups, Trello activity, 
 
 Additional evidence can be included below if available.
 
-![Screenshot of FundiShop team daily stand-up records](images/logbook-standup.png)
+![Screenshot of FundiShop team daily stand-up records](daily.png)
+[View the Full Agile Team Daily Stand Up Document](daily.pdf)
 
 *Figure 2: FundiShop daily stand-up and progress records.*
 
-![Screenshot of FundiShop sprint retrospective notes](images/logbook-retrospective.png)
+![Screenshot of FundiShop sprint retrospective notes](retrospective.png)
+[View the Full Retrospective and improvement  Document](retrospective.pdf)
 
 *Figure 3: FundiShop sprint retrospective and improvement actions.*
 
