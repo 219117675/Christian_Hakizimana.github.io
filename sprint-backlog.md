@@ -2,7 +2,7 @@
 
 *The work selected for the sprint and the sprint goal.*
 
-[Home & CV](README.md) | [Agile Project Portfolio (FundiShop)](portfolio.md)| [Agile Team Charter](charter.md) | [User Stories and Tasks](user-stories.md) | [Product Backlog](product-backlog.md) | **Sprint Backlog** | [Agile Logbook](logbook.md) | [Full FundiShop Document](FundiShop_PRP370_Portfolio.md)
+[Home & CV](README.md) | [Agile Project Portfolio (FundiShop)](portfolio.md)| [Agile Team Charter](charter.md) | [User Stories and Tasks](user-stories.md) | [Product Backlog](product-backlog.md) | **Sprint Backlog** | [Agile Logbook](logbook.md) 
 
 ## Project Overview
 
