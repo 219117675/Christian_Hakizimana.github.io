@@ -166,18 +166,6 @@ Team communication is another important part of sprint execution. When requireme
 
 For future sprints, I would aim to improve task estimation, clarify acceptance criteria before development starts and allocate sufficient time for integration and testing. I would also encourage the team to review progress regularly and ensure that completed tasks meet the agreed Definition of Done. These practices can improve teamwork, accountability and the quality of the final FundiShop application.
 
-## Links to Other Portfolio Sections
-
-The Sprint Backlog builds on the work documented in the previous portfolio sections:
-
-- **Agile Team Charter:** Establishes the team's purpose, responsibilities and working agreements.
-- **User Stories and Tasks:** Describes the requirements from the perspective of homeowners and Fundis and breaks them into development tasks.
-- **Product Backlog:** Provides the prioritised list of features and improvements from which sprint work is selected.
-- **Sprint Backlog:** Identifies the selected work, tasks, responsibilities and sprint goal.
-- **Agile Logbook:** Records the team's activities, progress, challenges and learning throughout the project.
-
-Together, these sections demonstrate how the team organised, planned, developed and reviewed the FundiShop project using Agile practices.
-
 ## Conclusion
 
 The sprint backlog provides a practical plan for turning FundiShop's product requirements into achievable development work. It connects the sprint goal to selected product backlog items, individual tasks and team responsibilities. By reviewing progress, communicating challenges and testing completed functionality, the team can work towards delivering a reliable marketplace that meets the needs of homeowners and Fundis.
