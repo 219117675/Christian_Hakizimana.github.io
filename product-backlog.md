@@ -16,7 +16,7 @@ The evidence for this section should show the actual FundiShop product backlog o
 
 ![Screenshot of the FundiShop product backlog showing prioritised backlog items](backlog.png)
 
-<a href="FundiShop-Product-Backlog(1).pdf" target="_blank">View PDF for full details</a>
+<a href="backlog.pdf" target="_blank">View PDF for full details</a>
 
 *Figure 1: FundiShop product backlog on Trello, showing prioritised product requirements, 2026.*
 
