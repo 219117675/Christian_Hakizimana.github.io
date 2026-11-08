@@ -249,23 +249,8 @@ If I were improving the backlog management process, I would make sure that every
 
 Overall, developing and organising the FundiShop product backlog improved my understanding of Agile planning, prioritisation and requirements management. I learned that a product backlog is not simply a list of features; it is a working planning document that helps a team make decisions about what should be developed, why it matters and how the work contributes to the overall product.
 
-## 10. Connection to the Other Portfolio Sections
 
-The Product Backlog connects the requirements identified in the User Stories and Tasks section to the practical planning of development work.
-
-The **Agile Team Charter** established the team's shared purpose, responsibilities and working agreements. It provided the foundation for collaboration and decision-making.
-
-The **User Stories and Tasks** section identified the needs of homeowners and Fundis and translated those needs into features and smaller development activities.
-
-The **Product Backlog** organised these requirements into a prioritised list, helping the team understand which features were most important and which could be considered for future development.
-
-The **Sprint Backlog** selected specific items from the product backlog and turned them into a focused plan for a particular sprint.
-
-The **Agile Logbook** recorded the daily development activities, progress, challenges and reflections associated with completing the planned work.
-
-Together, these sections demonstrate how FundiShop moved from defining team expectations to understanding user requirements, prioritising features, planning development and recording project progress.
-
-## 11. Conclusion
+## 10. Conclusion
 
 The FundiShop product backlog provided an organised approach to identifying and prioritising the features required for the service marketplace. It helped the team understand the essential functionality, consider technical dependencies and organise development activities according to their importance.
 
