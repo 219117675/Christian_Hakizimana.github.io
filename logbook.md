@@ -2,7 +2,7 @@
 
 *Daily stand-ups, sprint planning, progress updates and retrospective notes.*
 
-[Home & CV](README.md) | [Agile Project Portfolio (FundiShop)](portfolio.md) | [Agile Team Charter](charter.md) | [User Stories and Tasks](user-stories.md) | [Product Backlog](product-backlog.md) | [Sprint Backlog](sprint-backlog.md) | **Agile Logbook** | [Full FundiShop Document](FundiShop_PRP370_Portfolio.md)
+[Home & CV](README.md) | [Agile Project Portfolio (FundiShop)](portfolio.md) | [Agile Team Charter](charter.md) | [User Stories and Tasks](user-stories.md) | [Product Backlog](product-backlog.md) | [Sprint Backlog](sprint-backlog.md) | **Agile Logbook** 
 
 ## Introduction
 
