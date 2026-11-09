@@ -55,7 +55,7 @@ The FundiShop Trello board was used to organise project activities and monitor t
 
 ![Screenshot of FundiShop user stories and their related tasks from Trello](userstory1.png)
 
-**Supporting document:** [View the FundiShop Product Backlog PDF](FundiShop-Product-Backlog%20(1).pdf)
+**Supporting document:** [View the FundiShop Product Backlog PDF](backlog.pdf)
 
 *Figure 1: FundiShop user stories and related development tasks, intended to be evidenced through the team's Trello board.*
 
