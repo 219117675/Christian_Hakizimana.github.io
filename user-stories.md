@@ -14,11 +14,11 @@
 
 >These stories were then divided into smaller development and testing tasks. This made it easier to organise the work, allocate responsibilities and monitor progress using the team's Agile workflow and Trello board.
 
-## 2. Understanding the Users
+## Understanding the Users
 
 The main users considered during the development of FundiShop were homeowners and Fundis.
 
-### 2.1 Homeowners
+### Homeowners
 
 Homeowners are users who need assistance with household services. They require a platform where they can find suitable professionals, view service information, request bookings and monitor their requests.
 
@@ -32,7 +32,7 @@ Their main needs include:
 >- Viewing previous and current bookings.
 >- Tracking booking statuses.
 
-### 2.2 Fundis
+### Fundis
 
 Fundis are service professionals who use the platform to connect with homeowners and manage service requests.
 
@@ -47,7 +47,7 @@ Their main needs include:
 
 Understanding these user needs helped the team identify the essential functionality required for the first version of FundiShop.
 
-## 3. Evidence
+## Evidence
 
 The evidence for this section should demonstrate how the team identified user requirements and converted them into development tasks.
 
@@ -61,7 +61,7 @@ The FundiShop Trello board was used to organise project activities and monitor t
 
 The screenshot should show the actual Trello cards, task descriptions, assigned members and progress information. The PDF provides additional project planning information.
 
-## 4. User Stories and Development Tasks
+## User Stories and Development Tasks
 
 The following user stories describe the main functionality of FundiShop. Each story is written from the perspective of the intended user and is divided into tasks covering interface development, backend functionality, database operations and testing.
 
@@ -92,7 +92,7 @@ Registration allows homeowners and Fundis to create accounts and access the func
 - User details are saved in the database when registration succeeds.
 - Appropriate feedback is displayed when registration fails.
 
-### 4.2 User Story 2: User Login
+### User Story 2: User Login
 
 **As a** registered user, **I want** to log in to FundiShop, **so that** I can access the features available to my account.
 
@@ -119,7 +119,7 @@ The login functionality provides users with access to the application and allows
 - Successful login provides the appropriate user experience.
 - The user's role is considered when accessing role-specific functionality.
 
-### 4.3 User Story 3: Find a Fundi
+### User Story 3: Find a Fundi
 
 **As a** homeowner, **I want** to find local Fundis based on their services, **so that** I can identify a suitable professional for my household needs.
 
@@ -145,7 +145,7 @@ This feature helps homeowners discover service providers and understand what ser
 - The page handles situations where no profiles are available.
 - The information displayed is retrieved from the appropriate application data.
 
-### 4.4 User Story 4: View a Fundi Profile
+### User Story 4: View a Fundi Profile
 
 **As a** homeowner, **I want** to view a Fundi's professional profile, **so that** I can learn more about the service provider before requesting a booking.
 
@@ -170,7 +170,7 @@ A professional profile provides useful information about a Fundi and helps homeo
 - Relevant service and pricing information is shown when available.
 - The page handles missing or unavailable profile information appropriately.
 
-### 4.5 User Story 5: Create a Booking
+### User Story 5: Create a Booking
 
 **As a** homeowner, **I want** to request a booking with a Fundi, **so that** I can arrange assistance for a service I need.
 
@@ -199,7 +199,7 @@ The booking functionality allows homeowners to submit service requests to select
 - A successfully created booking receives its initial status.
 - Invalid booking information is handled appropriately.
 
-### 4.6 User Story 6: Track Bookings
+### User Story 6: Track Bookings
 
 **As a** homeowner, **I want** to view my bookings and their statuses, **so that** I can monitor the progress of my service requests.
 
@@ -238,7 +238,7 @@ The booking statuses used in the application include:
 | COMPLETED | The service has been completed. |
 | CANCELLED | The booking has been cancelled. |
 
-### 4.7 User Story 7: Manage Booking Requests
+### User Story 7: Manage Booking Requests
 
 **As a** Fundi, **I want** to view and manage incoming booking requests, **so that** I can respond to homeowners who need my services.
 
@@ -265,7 +265,7 @@ This functionality allows Fundis to manage requests submitted by homeowners and 
 - Supported status updates are reflected in the application.
 - The dashboard handles situations where no requests are available.
 
-### 4.8 User Story 8: Manage a Fundi Profile
+### User Story 8: Manage a Fundi Profile
 
 **As a** Fundi, **I want** to maintain my professional profile, **so that** homeowners can learn about my services and professional information.
 
@@ -291,7 +291,7 @@ The Fundi profile supports the presentation of professional information on the m
 - Relevant service details are available to homeowners.
 - Missing profile information is handled appropriately.
 
-## 5. Task Allocation and Team Responsibilities
+## Task Allocation and Team Responsibilities
 
 The team's responsibilities were divided according to the roles established in the Agile Team Charter.
 
@@ -306,7 +306,7 @@ The division of responsibilities provided structure, but the team also needed to
 
 For example, implementing the booking functionality required a frontend form, backend processing, database relationships and testing. This meant that individual responsibilities had to support the overall development objective.
 
-## 6. My Individual Contribution
+## My Individual Contribution
 
 My contribution to FundiShop focused on development activities, particularly backend and database-related work, system integration, interface improvements and testing.
 
@@ -324,7 +324,7 @@ Some of the areas I contributed to included:
 
 These activities helped me understand how different development responsibilities contribute to the completion of a single software product.
 
-## 7. Relationship Between User Stories and Development Tasks
+## Relationship Between User Stories and Development Tasks
 
 User stories describe what users need from the system, while development tasks explain the work required to implement those needs.
 
@@ -345,7 +345,7 @@ It also helps the team identify dependencies. In the booking example, the fronte
 
 This connection is important because a user story should not be considered complete simply because one part of the functionality has been developed.
 
-## 8. Reflection
+## Reflection
 
 When developing the FundiShop user stories, the main end users considered were homeowners and Fundis. Homeowners needed a convenient way to find service providers, view professional information, request bookings and track the progress of their requests. Fundis needed a way to present their services, view incoming requests and manage booking responses. Identifying these needs helped the team focus on features that would provide value to the people using the application.
 
@@ -363,19 +363,9 @@ If I were improving this process, I would ensure that every user story on the Tr
 
 Overall, creating user stories and breaking them into tasks improved my understanding of requirements analysis, Agile planning and collaborative software development. It helped me see how user needs become practical development activities and how those activities contribute to building a functional service marketplace.
 
-## 9. Connection to the Other Portfolio Sections
 
-The User Stories and Tasks section builds directly on the Agile Team Charter. While the charter established the team's purpose, responsibilities and working agreements, the user stories explain what the intended users need from FundiShop.
 
-The **Product Backlog** takes these user requirements and organises the features, improvements and technical work into a prioritised list. This helps the team decide which requirements are most important.
-
-The **Sprint Backlog** then selects work from the product backlog and turns it into a focused plan for a particular sprint. It helps the team understand what needs to be completed during that development period.
-
-The **Agile Logbook** records the activities, progress, challenges and reflections that occur while completing the planned tasks. It provides evidence of how the team worked towards implementing the user stories.
-
-Together, these sections show how the project moved from defining the team's direction to understanding user needs, prioritising requirements, planning development and recording progress.
-
-## 10. Conclusion
+## Conclusion
 
 The user stories and tasks provided a structured way of understanding the requirements of FundiShop from the perspectives of homeowners and Fundis. They helped identify the platform's essential features and divide them into manageable development activities. Through this process, I developed a better understanding of how requirements analysis supports software development and how user stories can guide implementation and testing.
 
