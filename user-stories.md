@@ -8,11 +8,11 @@
 
 ## 1. Project Overview
 
-FundiShop is a web-based service marketplace designed to connect homeowners with local service providers, known as Fundis. The platform aims to make it easier for homeowners to find professionals, view their service information, request services, arrange bookings and track the progress of their requests. Fundis can use the platform to maintain their professional profiles and manage incoming booking requests.
+>FundiShop is a web-based service marketplace designed to connect homeowners with local service providers, known as Fundis. The platform aims to make it easier for homeowners to find professionals, view their service information, request services, arrange bookings and track the progress of their requests. Fundis can use the platform to maintain their professional profiles and manage incoming booking requests.
 
-The development of FundiShop required the team to understand the needs of its intended users before deciding which features to implement. User stories were used to describe these needs from the perspectives of homeowners and Fundis. Each story identifies the user, the functionality required and the reason that functionality is important.
+>The development of FundiShop required the team to understand the needs of its intended users before deciding which features to implement. User stories were used to describe these needs from the perspectives of homeowners and Fundis. Each story identifies the user, the functionality required and the reason that functionality is important.
 
-These stories were then divided into smaller development and testing tasks. This made it easier to organise the work, allocate responsibilities and monitor progress using the team's Agile workflow and Trello board.
+>These stories were then divided into smaller development and testing tasks. This made it easier to organise the work, allocate responsibilities and monitor progress using the team's Agile workflow and Trello board.
 
 ## 2. Understanding the Users
 
@@ -24,13 +24,13 @@ Homeowners are users who need assistance with household services. They require a
 
 Their main needs include:
 
-- Creating a personal account.
-- Logging into the platform securely.
-- Finding Fundis based on their services and trade categories.
-- Viewing professional profiles and service information.
-- Submitting booking requests.
-- Viewing previous and current bookings.
-- Tracking booking statuses.
+>- Creating a personal account.
+>- Logging into the platform securely.
+>- Finding Fundis based on their services and trade categories.
+>- Viewing professional profiles and service information.
+>- Submitting booking requests.
+>- Viewing previous and current bookings.
+>- Tracking booking statuses.
 
 ### 2.2 Fundis
 
@@ -38,12 +38,12 @@ Fundis are service professionals who use the platform to connect with homeowners
 
 Their main needs include:
 
-- Registering and accessing their accounts.
-- Maintaining professional profile information.
-- Displaying their trade category and service details.
-- Viewing incoming booking requests.
-- Responding to booking requests.
-- Managing the status of their bookings.
+>- Registering and accessing their accounts.
+>- Maintaining professional profile information.
+>- Displaying their trade category and service details.
+>- Viewing incoming booking requests.
+>- Responding to booking requests.
+>- Managing the status of their bookings.
 
 Understanding these user needs helped the team identify the essential functionality required for the first version of FundiShop.
 
@@ -55,7 +55,7 @@ The FundiShop Trello board was used to organise project activities and monitor t
 
 ![Screenshot of FundiShop user stories and their related tasks from Trello](userstory1.png)
 
-**Supporting document:** [View the FundiShop Product Backlog PDF](backlog.pdf)
+**Supporting document:** [View the FundiShop Product Backlog With UserStory and subtasks PDF](backlog.pdf)
 
 *Figure 1: FundiShop user stories and related development tasks, intended to be evidenced through the team's Trello board.*
 
