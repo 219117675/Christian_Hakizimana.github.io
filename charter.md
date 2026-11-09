@@ -58,7 +58,7 @@ These goals gave the team a common understanding of the product and helped guide
 
 >Our team recognised that successful Agile development depends on more than completing individual programming tasks. It also requires communication, accountability, cooperation and respect.
 
-The following working principles guided our collaboration:
+**The following working principles guided our collaboration:**
 
 >**Communication:** Team members were expected to share progress, discuss technical problems and communicate when they needed assistance. Microsoft Teams meetings and Trello updates supported communication and progress tracking.
 
